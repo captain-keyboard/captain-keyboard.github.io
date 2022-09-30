@@ -1,1 +1,1 @@
-captain-keyboard.github.io
+captain-keys.github.io
