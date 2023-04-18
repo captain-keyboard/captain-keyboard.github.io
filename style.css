@@ -213,7 +213,7 @@ h2 {
 }
 .missioncard {
     position: absolute;
-    top: 15%;
+    top: 20%;
     background: rgb(0, 7, 57);
     box-shadow: 0 10px 20px 3px rgba(0,0,0,2);
     padding: 20px;
